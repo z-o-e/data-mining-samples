@@ -1,6 +1,0 @@
-set.seed(10)
-y<-c(1:1000)
-x1<-c(1:1000)*runif(1000,min=0,max=2)
-x2<-(c(1:1000)*runif(1000,min=0,max=2))^2
-x3<-log(c(1:1000)*runif(1000,min=0,max=2))
-
